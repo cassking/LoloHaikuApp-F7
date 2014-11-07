@@ -1,0 +1,14 @@
+.navbar {
+    background: #ff6600;
+    border-bottom: none;
+    color:#fff;
+}
+.statusbar-overlay{
+    background: #ff6600;
+}
+a {
+    color:#ff6600;
+}
+.page {
+    background: #f6f6ef;
+}
